@@ -1,0 +1,4 @@
+Ethics Statement:
+Privacy: Ensure anonymization of data, especially when using GPS or user-sourced data.
+Equity: Ensure bottleneck solutions do not disproportionately favor certain demographics or areas (e.g., affluent neighborhoods, mostly white or mostly non-white, etc).
+Transparency: Document data sources and preprocessing methods to enable reproducibility.

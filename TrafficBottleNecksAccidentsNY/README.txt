@@ -1,0 +1,1 @@
+This is a dataset about accidents data in NY. This was part of my assignment for an AI class. I chose bottlenecks and focused on accidents caused bottlenecks for my final presentation. I wanted to keep things simple. 
