@@ -80,4 +80,11 @@ Requirements:
 3-minute pitch of your dataset to the class
 
     My 3 minute pitch can be found here: https://github.com/ysaismartinez/FinalDataSetProject/tree/FinalDataSetBranch/Video%20Presentation%20Pitch
-    
+
+9: Additional Information:
+
+The scripts must be run in sequence:
+
+    1. First the pre-process scripts
+    2. Then the heatmaptrafficbottlenecks.py script 
+    3. There is a unit test for the preprocessing data as that's the core script that generates the data that the second script will depend upon. 
